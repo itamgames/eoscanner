@@ -1,0 +1,774 @@
+{
+  "tokens": [
+    {
+      "code": "hezdsnzuhage",
+      "symbol": "ONE",
+      "decimal": 4
+    },
+    {
+      "code": "hezdanbtgege",
+      "symbol": "DUE",
+      "decimal": 4
+    },
+    {
+      "code": "heytmnbvgqge",
+      "symbol": "LSM",
+      "decimal": 4
+    },
+    {
+      "code": "ha3tsnzzhege",
+      "symbol": "YEAH",
+      "decimal": 4
+    },
+    {
+      "code": "ha3tsnbsguge",
+      "symbol": "AMAZON",
+      "decimal": 4
+    },
+    {
+      "code": "ha3tqobthege",
+      "symbol": "ZB",
+      "decimal": 4
+    },
+    {
+      "code": "haytinjwgege",
+      "symbol": "REX",
+      "decimal": 4
+    },
+    {
+      "code": "haydimzsg4ge",
+      "symbol": "FSM",
+      "decimal": 4
+    },
+    {
+      "code": "haydgnbyhege",
+      "symbol": "IQTB",
+      "decimal": 4
+    },
+    {
+      "code": "g44tsojwgege",
+      "symbol": "COCO",
+      "decimal": 4
+    },
+    {
+      "code": "g43dcmjrhage",
+      "symbol": "HZF",
+      "decimal": 4
+    },
+    {
+      "code": "g4ydcnrqgege",
+      "symbol": "DSB",
+      "decimal": 4
+    },
+    {
+      "code": "gy4doojqgyge",
+      "symbol": "BA",
+      "decimal": 4
+    },
+    {
+      "code": "haydimzsg4ge",
+      "symbol": "FSM",
+      "decimal": 4
+    },
+    {
+      "code": "haydgnbyhege",
+      "symbol": "IQTB",
+      "decimal": 4
+    },
+    {
+      "code": "g44tsojwgege",
+      "symbol": "COCO",
+      "decimal": 4
+    },
+    {
+      "code": "g43dcmjrhage",
+      "symbol": "HZF",
+      "decimal": 4
+    },
+    {
+      "code": "g4ydcnrqgege",
+      "symbol": "DSB",
+      "decimal": 4
+    },
+    {
+      "code": "gy4doojqgyge",
+      "symbol": "BA",
+      "decimal": 4
+    },
+    {
+      "code": "gyztemjxgqge",
+      "symbol": "BTE",
+      "decimal": 4
+    },
+    {
+      "code": "gu4tgnrxhege",
+      "symbol": "SG",
+      "decimal": 4
+    },
+    {
+      "code": "gu3tkmzygqge",
+      "symbol": "GSTC",
+      "decimal": 4
+    },
+    {
+      "code": "guztknrygqge",
+      "symbol": "COIN",
+      "decimal": 4
+    },
+    {
+      "code": "guytamrsguge",
+      "symbol": "EDG",
+      "decimal": 4
+    },
+    {
+      "code": "gq2dkobzgmge",
+      "symbol": "LFC",
+      "decimal": 4
+    },
+    {
+      "code": "ge2dgnrwgyge",
+      "symbol": "LOT",
+      "decimal": 4
+    },
+    {
+      "code": "geytemjvgyge",
+      "symbol": "AB",
+      "decimal": 4
+    },
+    {
+      "code": "guytsmzzgene",
+      "symbol": "LB",
+      "decimal": 4
+    },
+    {
+      "code": "gm3dinbygene",
+      "symbol": "QB",
+      "decimal": 4
+    },
+    {
+      "code": "gizdgnagenes",
+      "symbol": "TAO",
+      "decimal": 4
+    },
+    {
+      "code": "ge3tcmjqgene",
+      "symbol": "YY",
+      "decimal": 4
+    },
+    {
+      "code": "eosnowbanker",
+      "symbol": "EOSNOW",
+      "decimal": 4
+    },
+    {
+      "code": "ha3damigenes",
+      "symbol": "STO",
+      "decimal": 4
+    },
+    {
+      "code": "everipediaiq",
+      "symbol": "IQ",
+      "decimal": 3
+    },
+    {
+      "code": "gy3dqmqgenes",
+      "symbol": "PHAROS",
+      "decimal": 4
+    },
+    {
+      "code": "eosiochaince",
+      "symbol": "CET",
+      "decimal": 4
+    },
+    {
+      "code": "eosdactokens",
+      "symbol": "EOSDAC",
+      "decimal": 4
+    },
+    {
+      "code": "eosninetiess",
+      "symbol": "NTS",
+      "decimal": 4
+    },
+    {
+      "code": "eosnamecreat",
+      "symbol": "QQ",
+      "decimal": 4
+    },
+    {
+      "code": "espritblocke",
+      "symbol": "MSP",
+      "decimal": 4
+    },
+    {
+      "code": "eosbtceosbtc",
+      "symbol": "LV",
+      "decimal": 4
+    },
+    {
+      "code": "wayunggogogo",
+      "symbol": "ET",
+      "decimal": 4
+    },
+    {
+      "code": "costcocostco",
+      "symbol": "COSTCO",
+      "decimal": 4
+    },
+    {
+      "code": "eosguotianmi",
+      "symbol": "GTM",
+      "decimal": 4
+    },
+    {
+      "code": "keytothemoon",
+      "symbol": "KEY",
+      "decimal": 4
+    },
+    {
+      "code": "peeplearning",
+      "symbol": "NLP",
+      "decimal": 0
+    },
+    {
+      "code": "pythonpython",
+      "symbol": "BTC",
+      "decimal": 0
+    },
+    {
+      "code": "toyotawallet",
+      "symbol": "E",
+      "decimal": 4
+    },
+    {
+      "code": "chineseeosbp",
+      "symbol": "TP",
+      "decimal": 4
+    },
+    {
+      "code": "eosadddddddd",
+      "symbol": "AD",
+      "decimal": 4
+    },
+    {
+      "code": "michaelsmith",
+      "symbol": "GAME",
+      "decimal": 4
+    },
+    {
+      "code": "clevelandfed",
+      "symbol": "BET",
+      "decimal": 4
+    },
+    {
+      "code": "zhiming11111",
+      "symbol": "EOSCN",
+      "decimal": 4
+    },
+    {
+      "code": "lilei5555555",
+      "symbol": "A",
+      "decimal": 4
+    },
+    {
+      "code": "abcdefuvwxyz",
+      "symbol": "BTC",
+      "decimal": 4
+    },
+    {
+      "code": "eosmanisyour",
+      "symbol": "PAB",
+      "decimal": 4
+    },
+    {
+      "code": "igetgetchain",
+      "symbol": "EOA",
+      "decimal": 4
+    },
+    {
+      "code": "uxbzhongguor",
+      "symbol": "UXB",
+      "decimal": 0
+    },
+    {
+      "code": "iameoschatio",
+      "symbol": "BTC",
+      "decimal": 1
+    },
+    {
+      "code": "arparparparp",
+      "symbol": "ARP",
+      "decimal": 0
+    },
+    {
+      "code": "iamasuperman",
+      "symbol": "YXS",
+      "decimal": 4
+    },
+    {
+      "code": "eosatidiumio",
+      "symbol": "ATD",
+      "decimal": 4
+    },
+    {
+      "code": "competetoken",
+      "symbol": "CP",
+      "decimal": 4
+    },
+    {
+      "code": "eos121dacvip",
+      "symbol": "EOSP",
+      "decimal": 4
+    },
+    {
+      "code": "wwwuchainone",
+      "symbol": "UCH",
+      "decimal": 4
+    },
+    {
+      "code": "eoseoseos321",
+      "symbol": "HB",
+      "decimal": 4
+    },
+    {
+      "code": "meetonebonus",
+      "symbol": "ONE",
+      "decimal": 0
+    },
+    {
+      "code": "muyimuyimuyi",
+      "symbol": "SC",
+      "decimal": 4
+    },
+    {
+      "code": "horustokenio",
+      "symbol": "HORUS",
+      "decimal": 4
+    },
+    {
+      "code": "activeactive",
+      "symbol": "HK",
+      "decimal": 4
+    },
+    {
+      "code": "jediiiiiiiii",
+      "symbol": "JDI",
+      "decimal": 4
+    },
+    {
+      "code": "lordxuemanzi",
+      "symbol": "MZ",
+      "decimal": 4
+    },
+    {
+      "code": "bostonshrimp",
+      "symbol": "TP",
+      "decimal": 4
+    },
+    {
+      "code": "chengyahong1",
+      "symbol": "L",
+      "decimal": 4
+    },
+    {
+      "code": "baosiyoutest",
+      "symbol": "NSC",
+      "decimal": 4
+    },
+    {
+      "code": "beijingniufj",
+      "symbol": "B",
+      "decimal": 4
+    },
+    {
+      "code": "cyphercrypto",
+      "symbol": "CYPHER",
+      "decimal": 0
+    },
+    {
+      "code": "eoxeoxeoxeox",
+      "symbol": "EOX",
+      "decimal": 4
+    },
+    {
+      "code": "vosvosvosvos",
+      "symbol": "VIP",
+      "decimal": 4
+    },
+    {
+      "code": "mosmosmosmos",
+      "symbol": "MOS",
+      "decimal": 4
+    },
+    {
+      "code": "superoscandy",
+      "symbol": "ECD",
+      "decimal": 4
+    },
+    {
+      "code": "cptblackbill",
+      "symbol": "BLKBILL",
+      "decimal": 4
+    },
+    {
+      "code": "bcdn12345123",
+      "symbol": "CNY",
+      "decimal": 4
+    },
+    {
+      "code": "eosblock1234",
+      "symbol": "ABC",
+      "decimal": 4
+    },
+    {
+      "code": "vvvleeostore",
+      "symbol": "SYS",
+      "decimal": 4
+    },
+    {
+      "code": "fujundong555",
+      "symbol": "MB",
+      "decimal": 4
+    },
+    {
+      "code": "evewaslonely",
+      "symbol": "EOS",
+      "decimal": 4
+    },
+    {
+      "code": "eosxin111111",
+      "symbol": "COC",
+      "decimal": 4
+    },
+    {
+      "code": "hemosoulwong",
+      "symbol": "CC",
+      "decimal": 4
+    },
+    {
+      "code": "fooooooooooo",
+      "symbol": "FA",
+      "decimal": 4
+    },
+    {
+      "code": "hehehehahaha",
+      "symbol": "LRE",
+      "decimal": 4
+    },
+    {
+      "code": "indianastate",
+      "symbol": "EOS",
+      "decimal": 4
+    },
+    {
+      "code": "helloworldk2",
+      "symbol": "HP",
+      "decimal": 4
+    },
+    {
+      "code": "zhaochenyang",
+      "symbol": "ZRB",
+      "decimal": 4
+    },
+    {
+      "code": "catchthestar",
+      "symbol": "CB",
+      "decimal": 4
+    },
+    {
+      "code": "5zhongnanhai",
+      "symbol": "ERB",
+      "decimal": 4
+    },
+    {
+      "code": "eostzzttmtnb",
+      "symbol": "EOT",
+      "decimal": 4
+    },
+    {
+      "code": "eosfujianmvp",
+      "symbol": "EOSG",
+      "decimal": 4
+    },
+    {
+      "code": "vipeosvipeos",
+      "symbol": "YOGA",
+      "decimal": 4
+    },
+    {
+      "code": "aosaosaosaos",
+      "symbol": "AOS",
+      "decimal": 4
+    },
+    {
+      "code": "woswoswoswos",
+      "symbol": "WOS",
+      "decimal": 4
+    },
+    {
+      "code": "eosnewdawn12",
+      "symbol": "COA",
+      "decimal": 4
+    },
+    {
+      "code": "eossuperdapp",
+      "symbol": "MC",
+      "decimal": 4
+    },
+    {
+      "code": "xxooxxxxooxx",
+      "symbol": "LOVE",
+      "decimal": 4
+    },
+    {
+      "code": "hahahahahahe",
+      "symbol": "QC",
+      "decimal": 4
+    },
+    {
+      "code": "etwineos1111",
+      "symbol": "EOSWIN",
+      "decimal": 4
+    },
+    {
+      "code": "imsuperstars",
+      "symbol": "TLD",
+      "decimal": 4
+    },
+    {
+      "code": "tkblockchain",
+      "symbol": "TKB",
+      "decimal": 4
+    },
+    {
+      "code": "onemarketeos",
+      "symbol": "EOSMKT",
+      "decimal": 4
+    },
+    {
+      "code": "leckoaccount",
+      "symbol": "WIZ",
+      "decimal": 4
+    },
+    {
+      "code": "swftcoinight",
+      "symbol": "DUDU",
+      "decimal": 5
+    },
+    {
+      "code": "xiaohewallet",
+      "symbol": "XHB",
+      "decimal": 4
+    },
+    {
+      "code": "tieshukaihua",
+      "symbol": "G",
+      "decimal": 4
+    },
+    {
+      "code": "eosistheonly",
+      "symbol": "QB",
+      "decimal": 4
+    },
+    {
+      "code": "lsjuneos1111",
+      "symbol": "LSJ",
+      "decimal": 4
+    },
+    {
+      "code": "lxq123lxq123",
+      "symbol": "BTC",
+      "decimal": 4
+    },
+    {
+      "code": "takeshiliang",
+      "symbol": "BA",
+      "decimal": 4
+    },
+    {
+      "code": "lijianmyeos1",
+      "symbol": "FBK",
+      "decimal": 4
+    },
+    {
+      "code": "emttokenbank",
+      "symbol": "EMT",
+      "decimal": 4
+    },
+    {
+      "code": "eoshostokens",
+      "symbol": "HOS",
+      "decimal": 4
+    },
+    {
+      "code": "eoseosvvvvvv",
+      "symbol": "V",
+      "decimal": 4
+    },
+    {
+      "code": "eos123diacom",
+      "symbol": "EOE",
+      "decimal": 4
+    },
+    {
+      "code": "eosfaidchain",
+      "symbol": "FAID",
+      "decimal": 4
+    },
+    {
+      "code": "eosadailyshy",
+      "symbol": "AIR",
+      "decimal": 4
+    },
+    {
+      "code": "piaoyu123451",
+      "symbol": "EFN",
+      "decimal": 4
+    },
+    {
+      "code": "therealkarma",
+      "symbol": "KARMA",
+      "decimal": 4
+    },
+    {
+      "code": "jubalaijenny",
+      "symbol": "JB",
+      "decimal": 4
+    },
+    {
+      "code": "windowslhh11",
+      "symbol": "SGC",
+      "decimal": 4
+    },
+    {
+      "code": "linzongsheng",
+      "symbol": "TEA",
+      "decimal": 4
+    },
+    {
+      "code": "whalehunters",
+      "symbol": "FUCK",
+      "decimal": 4
+    },
+    {
+      "code": "135duyinguxn",
+      "symbol": "GUG",
+      "decimal": 4
+    },
+    {
+      "code": "huangzicheng",
+      "symbol": "WE",
+      "decimal": 4
+    },
+    {
+      "code": "eosbiqutoken",
+      "symbol": "BT",
+      "decimal": 4
+    },
+    {
+      "code": "onetaoeoscap",
+      "symbol": "TAO",
+      "decimal": 4
+    },
+    {
+      "code": "eoszhangtao1",
+      "symbol": "EOSDAC",
+      "decimal": 4
+    },
+    {
+      "code": "tiantiankxzq",
+      "symbol": "ZAC",
+      "decimal": 4
+    },
+    {
+      "code": "huangtaichen",
+      "symbol": "HLH",
+      "decimal": 4
+    },
+    {
+      "code": "eosiocoinage",
+      "symbol": "SYS",
+      "decimal": 4
+    },
+    {
+      "code": "chenmatthewm",
+      "symbol": "RTCOIN",
+      "decimal": 4
+    },
+    {
+      "code": "aircoin.eos",
+      "symbol": "AC",
+      "decimal": 4
+    },
+    {
+      "code": "challengedac",
+      "symbol": "CHL",
+      "decimal": 4
+    },
+    {
+      "code": "qwerqwer.eos",
+      "symbol": "AC",
+      "decimal": 4
+    },
+    {
+      "code": "poormantoken",
+      "symbol": "POOR",
+      "decimal": 4
+    },
+    {
+      "code": "fffaaafffaaa",
+      "symbol": "HILA",
+      "decimal": 4
+    },
+    {
+      "code": "thekuloucoin",
+      "symbol": "KLC",
+      "decimal": 4
+    },
+    {
+      "code": "zzzjjjj11111",
+      "symbol": "CAT",
+      "decimal": 4
+    },
+    {
+      "code": "melochale555",
+      "symbol": "MLC",
+      "decimal": 4
+    },
+    {
+      "code": "luoyong12333",
+      "symbol": "TTUP",
+      "decimal": 4
+    },
+    {
+      "code": "eosiojohnphy",
+      "symbol": "USDT",
+      "decimal": 4
+    },
+    {
+      "code": "eostangenlai",
+      "symbol": "ONO",
+      "decimal": 4
+    },
+    {
+      "code": "ygyaries1234",
+      "symbol": "BTC",
+      "decimal": 4
+    },
+    {
+      "code": "rentalchain1",
+      "symbol": "PRC",
+      "decimal": 4
+    },
+    {
+      "code": "xlxz111nahan",
+      "symbol": "USDT",
+      "decimal": 4
+    },
+    {
+      "code": "eeeeeossssss",
+      "symbol": "WECHAT",
+      "decimal": 4
+    }
+  ]
+}
