@@ -19,7 +19,7 @@
                     </div>
                 </div>
                 <div class="sns">
-                    <a href="https://t.me/itamnetwork_official" target="_blank">
+                    <a href="https://t.me/itamgames" target="_blank">
                         <img src="./assets/telegram.png"
                              srcset="./assets/telegram@2x.png 2x, ./assets/telegram@3x.png 3x"
                              class="layer">
